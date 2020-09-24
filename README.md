@@ -9,28 +9,24 @@ Reach out to me if you want to *learn* more :wink:
   - Taught in: Swedish
   - English title: **Development of cloud based applications**
   - Length: 6 weeks (12 lectures)
-  - Azure
-  - Docker
+  - Course content: Azure, Docker
 - 2020, March: [Dataåtkomster i .NET](https://pgbsnh19.github.io/dataatkomst/) 
   - [:octocat: PGBSNH19/dataatkomst](https://github.com/PGBSNH19/dataatkomst)
   - Taught in: Swedish
   - English title: **Data retrival using .NET**
   - Length: 7 weeks (14 lectures)
-  - C#
-  - Entity Framework Core
+  - Course content: C#, Entity Framework Core
 - 2019, January: [Webbutveckling - backend](https://pgbfdh18.github.io/webbutveckling-backend/) 
   - [:octocat: PGBFDH18/webbutveckling-backend](https://github.com/PGBFDH18/webbutveckling-backend)
   - Taught in: Swedish
   - English title: **Backend webdevelopment**
   - Length: 7 weeks (16 lectures)
-  - C#
-  - ASP.NET Core
+  - Course content: C#, ASP.NET Core
 - 2018, January: Webbutveckling i ramverket för .NET - (sadly no public links)
   - Taught in: Swedish
   - English title: **Webdevelopment using the .NET framework**
   - Length: 7 weeks (16 lectures)
-  - C#
-  - ASP.NET
+  - Course content: C#, ASP.NET
 
 ## :mailbox: How to reach me:
 
