@@ -10,7 +10,9 @@ Reach out to me if you want to learn more :wink:
 - 2018, January: Webbutveckling i ramverket för .NET (sadly no public links)
 
 ## :mailbox: How to reach me:
+
 My litlle company: [Nonsultant](https://nonsultant.com)
+
 Social media: [LinkedIn](https://www.linkedin.com/in/skjohansen/), [Twitter](https://twitter.com/skjohansen)
 
 <!--
