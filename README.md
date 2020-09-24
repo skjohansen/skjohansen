@@ -1,6 +1,6 @@
 I have a key interest in the cross section between humans and technology, especially Cyber Security and teaching technology.
 
-## :mortar_board: Courses I have build and tought:
+## :mortar_board: Courses I have build and taught:
 
 Reach out to me if you want to learn more :wink:
 
