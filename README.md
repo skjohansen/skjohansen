@@ -14,6 +14,8 @@ Reach out to me if you want to learn more :wink:
   - C#
   - ASP.NET Core
 - 2018, January: Webbutveckling i ramverket för .NET (Swedish) (sadly no public links)
+  - C#
+  - ASP.NET
 
 ## :mailbox: How to reach me:
 
