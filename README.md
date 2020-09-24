@@ -11,7 +11,7 @@ Reach out to me if you want to learn more :wink:
 
 ## :mailbox: How to reach me:
 
-My litlle company: [Nonsultant](https://nonsultant.com)
+My company: [Nonsultant AB](https://nonsultant.com)
 
 Social media: [LinkedIn](https://www.linkedin.com/in/skjohansen/), [Twitter](https://twitter.com/skjohansen)
 
