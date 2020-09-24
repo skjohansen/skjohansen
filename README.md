@@ -4,19 +4,22 @@ I have a key interest in the cross section between humans and technology, especi
 
 Reach out to me if you want to *learn* more :wink:
 
-- 2020, September: [Utveckling av moln baserade applikationer](https://pgbsnh19.github.io/molnapplikationer/) - [:octocat: code](https://github.com/PGBSNH19/molnapplikationer)
+- 2020, September: [Utveckling av moln baserade applikationer](https://pgbsnh19.github.io/molnapplikationer/) 
+  - [:octocat: PGBSNH19/molnapplikationer](https://github.com/PGBSNH19/molnapplikationer)
   - Taught in: Swedish
   - English title: **Development of cloud based applications**
   - Length: 6 weeks (12 lectures)
   - Azure
   - Docker
-- 2020, March: [Dataåtkomster i .NET](https://pgbsnh19.github.io/dataatkomst/) - [:octocat: code](https://github.com/PGBSNH19/dataatkomst)
+- 2020, March: [Dataåtkomster i .NET](https://pgbsnh19.github.io/dataatkomst/) 
+  - [:octocat: PGBSNH19/dataatkomst](https://github.com/PGBSNH19/dataatkomst)
   - Taught in: Swedish
   - English title: **Data retrival using .NET**
   - Length: 7 weeks (14 lectures)
   - C#
   - Entity Framework Core
-- 2019, January: [Webbutveckling - backend](https://pgbfdh18.github.io/webbutveckling-backend/) - [:octocat: code](https://github.com/PGBFDH18/webbutveckling-backend)
+- 2019, January: [Webbutveckling - backend](https://pgbfdh18.github.io/webbutveckling-backend/) 
+  - [:octocat: PGBFDH18/webbutveckling-backend](https://github.com/PGBFDH18/webbutveckling-backend)
   - Taught in: Swedish
   - English title: **Backend webdevelopment**
   - Length: 7 weeks (16 lectures)
