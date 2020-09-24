@@ -2,7 +2,7 @@ I have a key interest in the cross section between humans and technology, especi
 
 ## :mortar_board: Courses I have build and taught:
 
-Reach out to me if you want to learn more :wink:
+Reach out to me if you want to *learn* more :wink:
 
 - 2020, September: [Utveckling av moln baserade applikationer](https://pgbsnh19.github.io/molnapplikationer/) - [:octocat: code](https://github.com/PGBSNH19/molnapplikationer)
   - Taught in: Swedish
