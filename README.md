@@ -4,20 +4,28 @@ I have a key interest in the cross section between humans and technology, especi
 
 Reach out to me if you want to learn more :wink:
 
-- 2020, September: [Utveckling av moln baserade applikationer](https://pgbsnh19.github.io/molnapplikationer/) (Swedish), [:octocat: code](https://github.com/PGBSNH19/molnapplikationer)
+- 2020, September: [Utveckling av moln baserade applikationer](https://pgbsnh19.github.io/molnapplikationer/) - [:octocat: code](https://github.com/PGBSNH19/molnapplikationer)
+  - Taught in: Swedish
   - English title: **Development of cloud based applications**
+  - Length: 6 weeks
   - Azure
   - Docker
-- 2020, March: [Dataåtkomster i .NET](https://pgbsnh19.github.io/dataatkomst/) (Swedish), [:octocat: code](https://github.com/PGBSNH19/dataatkomst)
+- 2020, March: [Dataåtkomster i .NET](https://pgbsnh19.github.io/dataatkomst/) - [:octocat: code](https://github.com/PGBSNH19/dataatkomst)
+  - Taught in: Swedish
   - English title: **Data retrival using .NET**
+  - Length: 8 weeks
   - C#
   - Entity Framework Core
-- 2019, January: [Webbutveckling - backend](https://pgbfdh18.github.io/webbutveckling-backend/) (Swedish), [:octocat: code](https://github.com/PGBFDH18/webbutveckling-backend)
+- 2019, January: [Webbutveckling - backend](https://pgbfdh18.github.io/webbutveckling-backend/) - [:octocat: code](https://github.com/PGBFDH18/webbutveckling-backend)
+  - Taught in: Swedish
   - English title: **Backend webdevelopment**
+  - Length: 8 weeks
   - C#
   - ASP.NET Core
-- 2018, January: Webbutveckling i ramverket för .NET (Swedish) (sadly no public links)
-  . English title: **Webdevelopment using the .NET framework**
+- 2018, January: Webbutveckling i ramverket för .NET - (sadly no public links)
+  - Taught in: Swedish
+  - English title: **Webdevelopment using the .NET framework**
+  - Length: 8 weeks
   - C#
   - ASP.NET
 
