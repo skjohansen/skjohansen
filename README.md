@@ -5,15 +5,19 @@ I have a key interest in the cross section between humans and technology, especi
 Reach out to me if you want to learn more :wink:
 
 - 2020, September: [Utveckling av moln baserade applikationer](https://pgbsnh19.github.io/molnapplikationer/) (Swedish), [:octocat: code](https://github.com/PGBSNH19/molnapplikationer)
+  - English title: **Development of cloud based applications**
   - Azure
   - Docker
 - 2020, March: [Dataåtkomster i .NET](https://pgbsnh19.github.io/dataatkomst/) (Swedish), [:octocat: code](https://github.com/PGBSNH19/dataatkomst)
+  - English title: **Data retrival using .NET**
   - C#
   - Entity Framework Core
 - 2019, January: [Webbutveckling - backend](https://pgbfdh18.github.io/webbutveckling-backend/) (Swedish), [:octocat: code](https://github.com/PGBFDH18/webbutveckling-backend)
+  - English title: **Backend webdevelopment**
   - C#
   - ASP.NET Core
 - 2018, January: Webbutveckling i ramverket för .NET (Swedish) (sadly no public links)
+  . English title: **Webdevelopment using the .NET framework**
   - C#
   - ASP.NET
 
