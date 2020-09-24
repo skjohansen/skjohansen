@@ -10,6 +10,10 @@ Reach out to me if you want to *learn* more :wink:
   - English title: **Development of cloud based applications**
   - Length: 6 weeks (12 lectures)
   - Course content: Azure, Docker
+- 2020, July: "Cybersecurity - boot camp" - (sadly no public links)
+  - Taught in: English
+  - Length: 1 week (5 lectures)
+  - Course content: Risks, attack types, countermeasures & hands on training
 - 2020, March: [Dataåtkomster i .NET](https://pgbsnh19.github.io/dataatkomst/) (GitHube page)
   - Repo: [PGBSNH19/dataatkomst](https://github.com/PGBSNH19/dataatkomst)
   - Taught in: Swedish
