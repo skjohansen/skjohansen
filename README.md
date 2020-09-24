@@ -15,7 +15,7 @@ My company: [Nonsultant AB](https://nonsultant.com)
 
 Social media: [LinkedIn](https://www.linkedin.com/in/skjohansen/), [Twitter](https://twitter.com/skjohansen)
 
-![Stephans's github stats]](https://github-readme-stats.vercel.app/api?username=skjohansen)
+![Stephan's github stats](https://github-readme-stats.vercel.app/api?username=skjohansen)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skjohansen&layout=compact)
 
