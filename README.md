@@ -1,4 +1,4 @@
-I have a key interest in the cross section between humans and technology, especially Cyber Security and teaching technology.
+I have a key interest in the cross section between humans and technology, especially DevOps, Cyber Security and teaching of technology.
 
 🎯 **I’m currently focusing on**: Teaching with different aspects of software development using the .NET eco-system.
 
