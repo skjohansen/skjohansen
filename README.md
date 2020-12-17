@@ -4,6 +4,13 @@ I have a key interest in the cross section between humans and technology, especi
 
 Reach out to me if you want to *learn* more :wink:
 
+- 2020, December: [Producera och leverera mjukvaror](https://pgbsnh19.github.io/course-producera-leverera) (GitHub page)
+  - Repo: [PGBSNH19/course-producera-leverera](https://github.com/PGBSNH19/course-producera-leverera)
+  - Taught in: Swedish
+  - English title: **Produce and deliver software**
+  - Length: 7 weeks (10 lectures + one large project)
+  - Project: A large project done in co-operation with a class of software testers in Stockholm
+  - Main topics: Everything which surrounds the code
 - 2020, September: [Utveckling av moln baserade applikationer](https://pgbsnh19.github.io/molnapplikationer/) (GitHub page)
   - Repo: [PGBSNH19/molnapplikationer](https://github.com/PGBSNH19/molnapplikationer)
   - Taught in: Swedish
