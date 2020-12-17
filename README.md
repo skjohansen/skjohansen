@@ -1,8 +1,8 @@
 I have a key interest in the cross section between humans and technology, especially Cyber Security and teaching technology.
 
-- 🎯 **I’m currently focusing on**: Teaching with different aspects of software development using the .NET eco-system.
+🎯 **I’m currently focusing on**: Teaching with different aspects of software development using the .NET eco-system.
 
-- 🔭 **Also, I’m working on**: Something cool related to security and will hopefully soon publish something 😉.
+🔭 **Also, I’m working on**: Something cool related to security and will hopefully soon publish something 😉.
 
 ## :mortar_board: Courses I have build and taught:
 
