@@ -28,7 +28,7 @@ Reach out to me if you want to *learn* more :wink:
 - 2020, March: [Dataåtkomster i .NET](https://pgbsnh19.github.io/dataatkomst/) (GitHub page)
   - Repo: [PGBSNH19/dataatkomst](https://github.com/PGBSNH19/dataatkomst)
   - Taught in: Swedish
-  - English title: **Data retrival using .NET**
+  - English title: **Data access using .NET**
   - Length: 7 weeks (14 lectures)
   - Main topics: Entity Framework Core
 - 2019, January: [Webbutveckling - backend](https://pgbfdh18.github.io/webbutveckling-backend/) (GitHub page)
