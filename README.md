@@ -13,7 +13,8 @@ Reach out to me if you want to *learn* more :wink:
   - Taught in: Swedish
   - English title: **Data access using .NET**
   - Length: 7 weeks (14 lectures)
-  - Main topics: Entity Framework Core, GitHub, Unit tests, .NET 5.0, Docker
+  - Main topics: How to access data in different storages using .NET
+  - Technologies: GitHub, Unit tests, .NET 5.0, Entity Framework Core, Docker
 - 2020, December: [Producera och leverera mjukvaror](https://pgbsnh19.github.io/course-producera-leverera) (GitHub page)
   - Repo: [PGBSNH19/course-producera-leverera](https://github.com/PGBSNH19/course-producera-leverera)
   - Taught in: Swedish
@@ -26,7 +27,8 @@ Reach out to me if you want to *learn* more :wink:
   - Taught in: Swedish
   - English title: **Development of cloud based applications**
   - Length: 6 weeks (12 lectures)
-  - Main topics: DevOps (the culture), Azure, Docker
+  - Main topics: Cloud applications, DevOps (the culture)
+  - Technologies: Azure, Docker
 - 2020, July: "Cybersecurity - boot camp" - (sadly no public links)
   - Taught in: English
   - Length: 1 week (5 lectures)
