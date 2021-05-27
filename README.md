@@ -8,13 +8,21 @@ I have a key interest in the cross section between humans and technology, especi
 
 Reach out to me if you want to *learn* more :wink:
 
+
+- 2021, April: [Webbutveckling backend](https://pgbsnh20.github.io/PGBSNH20-backendweb) (GitHub page)
+  - Repo: [PGBSNH20/PGBSNH20-backendweb](https://github.com/PGBSNH20/PGBSNH20-backendweb)
+  - Taught in: Swedish
+  - English title: **Webdevelopment backend**
+  - Length: 7 weeks (14 lectures)
+  - Main topics: How to develop backend webapplications using ASP.NET
+  - Technologies: .NET 5, ASP.NET Core 5, REST API, Docker, Razor Pages, Security
 - 2021, March: [Dataåtkomster i .NET](https://pgbsnh20.github.io/PGBSNH20-dataatkomst/) (GitHub page)
   - Repo: [PGBSNH20/PGBSNH20-dataatkomst](https://github.com/PGBSNH20/PGBSNH20-dataatkomst)
   - Taught in: Swedish
   - English title: **Data access using .NET**
   - Length: 7 weeks (14 lectures)
   - Main topics: How to access data in different storages using .NET
-  - Technologies: GitHub, Unit tests, .NET 5.0, Entity Framework Core, Docker
+  - Technologies: GitHub, Unit tests, .NET 5, Entity Framework Core, Docker
 - 2020, December: [Producera och leverera mjukvaror](https://pgbsnh19.github.io/course-producera-leverera) (GitHub page)
   - Repo: [PGBSNH19/course-producera-leverera](https://github.com/PGBSNH19/course-producera-leverera)
   - Taught in: Swedish
