@@ -1,8 +1,8 @@
-I have a key interest in the cross section between humans and technology, especially DevOps, Cyber Security and teaching of technology.
+I have a key interest in the cross section between humans and technology, especially AppSec, DevSecOps and teaching of technology.
 
 🎯 **I’m currently focusing on**: Teaching with different aspects of software development using the .NET eco-system.
 
-🔭 **Also, I’m working on**: Something cool related to security and will hopefully soon publish something 😉.
+🔭 **Also, I’m working on**: Something cool related to security and will hopefully soon publish something 😉 (and hopefully will it be worth the wait...)
 
 ## :mortar_board: Courses I have build and taught:
 
