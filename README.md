@@ -8,7 +8,13 @@ I have a key interest in the cross section between humans and technology, especi
 
 Reach out to me if you want to *learn* more :wink:
 
-
+- 2021, September: [Utveckling av moln baserade applikationer](https://pgbsnh20.github.io/PGBSNH20-molnapplikationer/) (GitHub page)
+  - Repo: [PGBSNH20/PGBSNH20-molnapplikationer](https://github.com/PGBSNH20/PGBSNH20-molnapplikationer)
+  - Taught in: Swedish
+  - English title: **Development of cloud based applications**
+  - Length: 6 weeks (12 lectures)
+  - Main topics: Cloud applications, DevOps (the culture), Secuirty
+  - Technologies: Azure, Docker
 - 2021, April: [Webbutveckling backend](https://pgbsnh20.github.io/PGBSNH20-backendweb) (GitHub page)
   - Repo: [PGBSNH20/PGBSNH20-backendweb](https://github.com/PGBSNH20/PGBSNH20-backendweb)
   - Taught in: Swedish
